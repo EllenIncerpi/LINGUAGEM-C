@@ -1,2 +1,5 @@
 # LINGUAGEM-C
-Repositório para a faculdade 
+Repositório para a faculdade
+
+![Uploading image.png…]()
+
