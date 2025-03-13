@@ -32,6 +32,10 @@ return 0;
 Exercício 3
 ![image](https://github.com/user-attachments/assets/226a8d9e-8f93-4f2c-a443-5a2022f3a577)
 ![image](https://github.com/user-attachments/assets/c30eff43-f02d-44b4-a9e6-0ed0d83b3105)
+--------------------------
+Exercício 4
+![image](https://github.com/user-attachments/assets/d672d73d-1e76-4e07-b26d-eb574e33e6ad)
+
 
 
 
