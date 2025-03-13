@@ -35,6 +35,10 @@ Exercício 3
 --------------------------
 Exercício 4
 ![image](https://github.com/user-attachments/assets/d672d73d-1e76-4e07-b26d-eb574e33e6ad)
+------------------------------------
+Exercício 5
+![image](https://github.com/user-attachments/assets/15e0b92a-997a-49e3-9390-0ce76fa3c8a5)
+
 
 
 
