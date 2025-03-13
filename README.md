@@ -38,6 +38,13 @@ Exercício 4
 ------------------------------------
 Exercício 5
 ![image](https://github.com/user-attachments/assets/15e0b92a-997a-49e3-9390-0ce76fa3c8a5)
+-------------------------
+
+curso alura
+![image](https://github.com/user-attachments/assets/21658992-1f1e-486c-a171-e6b8c925d679)
+![image](https://github.com/user-attachments/assets/91a082b5-333c-4c15-bece-53bac3458080)
+
+
 
 
 
