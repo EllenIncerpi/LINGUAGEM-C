@@ -55,10 +55,14 @@ ex3
 ![image](https://github.com/user-attachments/assets/5b75fe59-599b-4685-b691-3057eb63c8e6)
 
 ex4
+![image](https://github.com/user-attachments/assets/3a267f76-7d92-49ef-99a2-af49c9cedb4f)
+![image](https://github.com/user-attachments/assets/74371971-c471-4c3b-b69b-2cd82b1e57cf)
 
 
 
 
+
+![image](https://github.com/user-attachments/assets/4163e461-27d4-4ccb-a03f-ec26021f29ee)
 
 
 
