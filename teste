@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int main(){
+	int num1, num2, num3, resultado;
+
+	printf("Escreva com 3 numeros");
+	scanf("%d" "%d" "%d", &num1, &num2, &num3);
+	resultado = num1 + num2 * num3;
+	printf("Resultado dos numeros: %d\n", resultado);
+	
+	printf("Escreva com 3 numeros");
+	scanf("%d" "%d" "%d", &num1, &num2, &num3);
+	resultado = (num1 + num2) * num3;
+	printf("Resultado dos numeros: %d\n", resultado);
+	
+	printf("Escreva com 3 numeros");
+	scanf("%d" "%d" "%d", &num1, &num2, &num3);
+	resultado = num1 / num2 * num3;
+	printf("Resultado dos numeros: %d\n", resultado);
+	
+	printf("Escreva com 3 numeros");
+	scanf("%d" "%d" "%d", &num1, &num2, &num3);
+	resultado = num1 / (num2 * num3);
+	printf("Resultado dos numeros: %d\n", resultado);
+	
+	printf("Escreva com 3 numeros");
+	scanf("%d" "%d" "%d", &num1, &num2, &num3);
+	resultado = num1 % num2 + num3;
+	printf("Resultado dos numeros: %d\n", resultado);
+	
+
+	return 0;
+}
