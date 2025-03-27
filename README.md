@@ -65,8 +65,15 @@ ex4
 ![image](https://github.com/user-attachments/assets/4163e461-27d4-4ccb-a03f-ec26021f29ee)
 
 
+![image](https://github.com/user-attachments/assets/91b596f4-7f7d-41a1-a6d9-f352b0662966)
 
 
+![image](https://github.com/user-attachments/assets/94399356-9b8c-4f3c-86df-c4d5489570da)
+
+![image](https://github.com/user-attachments/assets/8c3de044-1dc8-4afe-8197-51fb220ad576)
+
+
+![image](https://github.com/user-attachments/assets/2359298b-b077-4d11-9afa-6c5bc1acb628)
 
 
 
