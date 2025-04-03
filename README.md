@@ -75,5 +75,8 @@ ex4
 
 ![image](https://github.com/user-attachments/assets/2359298b-b077-4d11-9afa-6c5bc1acb628)
 
+![image](https://github.com/user-attachments/assets/25cab73c-cca7-403c-a0c2-a89f04457c23)
+
+
 
 
