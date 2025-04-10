@@ -82,6 +82,17 @@ ex4
 
 ![image](https://github.com/user-attachments/assets/6b636985-60af-4b90-8d02-66cd1f27648a)
 
+1
+![image](https://github.com/user-attachments/assets/695b6233-9f6e-4e21-914e-6097d53728de)
+
+2
+![image](https://github.com/user-attachments/assets/e7838e4e-bde5-40b0-8ba7-864c8973f361)
+
+3
+![image](https://github.com/user-attachments/assets/5ba1bd7e-752f-49d9-9d56-ed8ae6cd89c0)
+
+4
+![image](https://github.com/user-attachments/assets/f0d38eb8-add3-4af4-ae75-6bdda5221132)
 
 
 
