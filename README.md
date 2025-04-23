@@ -95,5 +95,6 @@ ex4
 ![image](https://github.com/user-attachments/assets/f0d38eb8-add3-4af4-ae75-6bdda5221132)
 
 
-
+23.04.2025
+![image](https://github.com/user-attachments/assets/7f0b60ec-f252-427b-a32f-d254a0ddb224)
 
