@@ -98,3 +98,4 @@ ex4
 23.04.2025
 ![image](https://github.com/user-attachments/assets/7f0b60ec-f252-427b-a32f-d254a0ddb224)
 
+![image](https://github.com/user-attachments/assets/22f43413-46a4-485b-9c80-6827cdb73a64)
