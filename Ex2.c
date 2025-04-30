@@ -7,7 +7,7 @@ void detalheEscada(int tamanho) {
         for (int j = 1; j <= tamanho - i; j++) {
             printf(" ");
         }
-        // Imprimir #
+        // Imprimir 
         for (int k = 1; k <= i; k++) {
             printf("#");
         }
@@ -32,8 +32,7 @@ int main() {
     numeros[3] = 4;
     numeros[4] = 5;
 
-    // Aqui você pode adicionar o código que usa o array 'numeros'
-    // Por exemplo, para imprimir os elementos:
+    // imprimir os elementos:
     printf("Elementos do array numeros: ");
     for (int i = 0; i < 5; i++) {
         printf("%d ", numeros[i]);
