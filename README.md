@@ -99,3 +99,9 @@ ex4
 ![image](https://github.com/user-attachments/assets/7f0b60ec-f252-427b-a32f-d254a0ddb224)
 
 ![image](https://github.com/user-attachments/assets/22f43413-46a4-485b-9c80-6827cdb73a64)
+
+![image](https://github.com/user-attachments/assets/80ed66bb-81c0-4d25-bb30-00141f66bc39)
+
+![image](https://github.com/user-attachments/assets/da781bc4-c717-4cdf-aa6b-0acfd6338627)
+
+
